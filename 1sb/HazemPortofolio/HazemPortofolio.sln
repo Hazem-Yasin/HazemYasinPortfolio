@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazemPortofolio.Server", "HazemPortofolio.Server\HazemPortofolio.Server.csproj", "{86079374-8E4D-4678-A591-4F0D19561016}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "hazemportofolio.client", "hazemportofolio.client\hazemportofolio.client.esproj", "{B9303714-073E-41A4-B86C-CF2C6DCB2199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86079374-8E4D-4678-A591-4F0D19561016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86079374-8E4D-4678-A591-4F0D19561016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86079374-8E4D-4678-A591-4F0D19561016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86079374-8E4D-4678-A591-4F0D19561016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9303714-073E-41A4-B86C-CF2C6DCB2199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9303714-073E-41A4-B86C-CF2C6DCB2199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9303714-073E-41A4-B86C-CF2C6DCB2199}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9303714-073E-41A4-B86C-CF2C6DCB2199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9303714-073E-41A4-B86C-CF2C6DCB2199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9303714-073E-41A4-B86C-CF2C6DCB2199}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D655BF2-52DC-4B0A-A5EF-DD8D42710B2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazem\\Documents\\GitHub\\HazemYasinPortfolio\\1sb\\HazemPortofolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86079374-8E4D-4678-A591-4F0D19561016}|HazemPortofolio.Server\\HazemPortofolio.Server.csproj|c:\\users\\hazem\\documents\\github\\hazemyasinportfolio\\1sb\\hazemportofolio\\hazemportofolio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86079374-8E4D-4678-A591-4F0D19561016}|HazemPortofolio.Server\\HazemPortofolio.Server.csproj|solutionrelative:hazemportofolio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\HazemYasinPortfolio\\1sb\\HazemPortofolio\\HazemPortofolio.Server\\Program.cs",
+              "RelativeDocumentMoniker": "HazemPortofolio.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\hazem\\Documents\\GitHub\\HazemYasinPortfolio\\1sb\\HazemPortofolio\\HazemPortofolio.Server\\Program.cs",
+              "RelativeToolTip": "HazemPortofolio.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:50:30.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

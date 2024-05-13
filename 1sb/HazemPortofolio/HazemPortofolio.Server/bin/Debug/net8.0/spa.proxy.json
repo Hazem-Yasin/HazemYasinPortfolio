@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\hazem\\Documents\\GitHub\\HazemYasinPortfolio\\1sb\\HazemPortofolio\\HazemPortofolio.Server\\..\\hazemportofolio.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
