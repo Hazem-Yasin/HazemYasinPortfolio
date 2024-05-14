@@ -1,9 +1,80 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="angular-ui-grid" Version="4.11.1" />
+    <PackageReference Include="Angular.Material" Version="1.1.12" />
+    <PackageReference Include="Angular.UI.Bootstrap" Version="2.5.0" />
+    <PackageReference Include="Angular.UI.UI-Router" Version="0.4.2" />
+    <PackageReference Include="Angular.UI.Utils" Version="0.2.3" />
+    <PackageReference Include="angularjs" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Animate" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Aria" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Core" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Locale" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Resource" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Route" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Sanitize" Version="1.8.2" />
+    <PackageReference Include="AngularJS.Touch" Version="1.8.2" />
+    <PackageReference Include="AssimpNet" Version="4.1.0" />
+    <PackageReference Include="Azure.Identity" Version="1.11.3" />
+    <PackageReference Include="Dwarf" Version="1.0.23" />
+    <PackageReference Include="Dwarf.WebApi" Version="1.0.18" />
+    <PackageReference Include="Fable.React" Version="9.3.0" />
+    <PackageReference Include="GlmNet" Version="0.7.0" />
+    <PackageReference Include="GlmSharp" Version="0.9.8" />
+    <PackageReference Include="HelixToolkit" Version="2.25.0" />
+    <PackageReference Include="HelixToolkit.Wpf" Version="2.25.0" />
+    <PackageReference Include="HelixToolkit.Wpf.SharpDX" Version="2.25.0" />
+    <PackageReference Include="LibNoise" Version="0.2.0" />
+    <PackageReference Include="LibNoise.NetStandart" Version="0.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.ApiDescription.Server" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Mogre1.7.4" Version="1.0.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Node.js" Version="5.3.0" />
+    <PackageReference Include="OpenTK" Version="4.8.2" />
+    <PackageReference Include="OpenTK.Core" Version="4.8.2" />
+    <PackageReference Include="OpenTK.GLControl" Version="3.3.3" />
+    <PackageReference Include="OpenTK.Mathematics" Version="4.8.2" />
+    <PackageReference Include="OpenTK.OpenAL" Version="4.7.7" />
+    <PackageReference Include="OpenTK.redist.glfw" Version="3.4.0.44" />
+    <PackageReference Include="React.AspNet" Version="5.2.12" />
+    <PackageReference Include="React.AspNet.Middleware" Version="5.2.12" />
+    <PackageReference Include="React.Core" Version="5.2.12" />
+    <PackageReference Include="react.js" Version="0.14.7" />
+    <PackageReference Include="React.Router" Version="5.2.12" />
+    <PackageReference Include="React.Web" Version="5.2.12" />
+    <PackageReference Include="React.Web.Mvc4" Version="5.2.12" />
+    <PackageReference Include="SharpGL" Version="3.1.1" />
+    <PackageReference Include="SharpGL.SceneGraph" Version="3.1.1" />
+    <PackageReference Include="SharpGL.Serialization" Version="3.1.1" />
+    <PackageReference Include="SharpGL.WinForms" Version="3.1.1" />
+    <PackageReference Include="SharpGL.WPF" Version="3.1.1" />
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
+    <PackageReference Include="System.Web.Optimization.React" Version="5.2.12" />
+    <PackageReference Include="ThreeLib" Version="1.0.208" />
+    <PackageReference Include="Veldrid" Version="4.9.0" />
+    <PackageReference Include="Veldrid.OpenGLBindings" Version="4.9.0" />
+    <PackageReference Include="WaveEngine" Version="2.5.0.39" />
+    <PackageReference Include="WaveEngine.Common" Version="2.5.0.39" />
+    <PackageReference Include="WaveEngine.Framework" Version="2.5.0.39" />
+  </ItemGroup>
 
 </Project>

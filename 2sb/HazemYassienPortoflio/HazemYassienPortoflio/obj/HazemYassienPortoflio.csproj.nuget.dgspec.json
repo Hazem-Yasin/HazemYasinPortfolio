@@ -49,6 +49,260 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Angular.Material": {
+              "target": "Package",
+              "version": "[1.1.12, )"
+            },
+            "Angular.UI.Bootstrap": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Angular.UI.UI-Router": {
+              "target": "Package",
+              "version": "[0.4.2, )"
+            },
+            "Angular.UI.Utils": {
+              "target": "Package",
+              "version": "[0.2.3, )"
+            },
+            "AngularJS.Animate": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "AngularJS.Aria": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "AngularJS.Core": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "AngularJS.Locale": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "AngularJS.Resource": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "AngularJS.Route": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "AngularJS.Sanitize": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "AngularJS.Touch": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "AssimpNet": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.11.3, )"
+            },
+            "Dwarf": {
+              "target": "Package",
+              "version": "[1.0.23, )"
+            },
+            "Dwarf.WebApi": {
+              "target": "Package",
+              "version": "[1.0.18, )"
+            },
+            "Fable.React": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "GlmNet": {
+              "target": "Package",
+              "version": "[0.7.0, )"
+            },
+            "GlmSharp": {
+              "target": "Package",
+              "version": "[0.9.8, )"
+            },
+            "HelixToolkit": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "HelixToolkit.Wpf": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "HelixToolkit.Wpf.SharpDX": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "LibNoise": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "LibNoise.NetStandart": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.ApiDescription.Server": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Mogre1.7.4": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Node.js": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "OpenTK.Core": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "OpenTK.GLControl": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "OpenTK.Mathematics": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "OpenTK.OpenAL": {
+              "target": "Package",
+              "version": "[4.7.7, )"
+            },
+            "OpenTK.redist.glfw": {
+              "target": "Package",
+              "version": "[3.4.0.44, )"
+            },
+            "React.AspNet": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
+            "React.AspNet.Middleware": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
+            "React.Core": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
+            "React.Router": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
+            "React.Web": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
+            "React.Web.Mvc4": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
+            "SharpGL": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "SharpGL.SceneGraph": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "SharpGL.Serialization": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "SharpGL.WPF": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "SharpGL.WinForms": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Web.Optimization.React": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
+            "ThreeLib": {
+              "target": "Package",
+              "version": "[1.0.208, )"
+            },
+            "Veldrid": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Veldrid.OpenGLBindings": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "WaveEngine": {
+              "target": "Package",
+              "version": "[2.5.0.39, )"
+            },
+            "WaveEngine.Common": {
+              "target": "Package",
+              "version": "[2.5.0.39, )"
+            },
+            "WaveEngine.Framework": {
+              "target": "Package",
+              "version": "[2.5.0.39, )"
+            },
+            "angular-ui-grid": {
+              "target": "Package",
+              "version": "[4.11.1, )"
+            },
+            "angularjs": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "react.js": {
+              "target": "Package",
+              "version": "[0.14.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
